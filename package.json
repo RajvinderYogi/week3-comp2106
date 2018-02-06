@@ -1,0 +1,17 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "Intro to npm",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "currency-formatter": "^1.3.2",
+    "linkedin-node": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RAjvinder Yogi",
+  "license": "ISC"
+}
